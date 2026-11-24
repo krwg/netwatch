@@ -1,0 +1,13 @@
+firmware/.pio/
+firmware/.vscode/
+firmware/.idea/
+web/node_modules/
+web/dist/
+web/.env
+web/.env.local
+.DS_Store
+Thumbs.db
+*.lnk
+.vs/
+*.user
+*.suo
